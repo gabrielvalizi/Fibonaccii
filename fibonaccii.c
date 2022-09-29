@@ -14,7 +14,7 @@ int fibonacci(int n){
    }
 
   return variavel;
-  
+
   }
 
 int main(void){
